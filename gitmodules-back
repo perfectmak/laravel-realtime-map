@@ -1,0 +1,3 @@
+[submodule "laradock"]
+	path = laradock-realmap
+	url = https://github.com/Laradock/laradock.git
